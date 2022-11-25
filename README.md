@@ -11,10 +11,12 @@ Desenvolvimento de software
 
 - HTML
 - Javascript
+- Swift
 
 ## 🛠 Ferramentas utilizadas
 
 - VScode
+- Xcode
 
 ## 🛠 Ferramentas de versionamento de código
 
