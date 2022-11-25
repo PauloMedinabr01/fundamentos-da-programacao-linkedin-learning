@@ -2,6 +2,11 @@
 
 Repositório com os exercícios do curso Fundamentos da Programação - LinkedIn Learning
 
+Este curso fornece o conhecimento básico para começar a programar em qualquer idioma. Usando JavaScript para explorar a sintaxe central de uma linguagem de programação, aprenda a escrever e executar sua primeira aplicação e entenda o que está acontecendo nos bastidores. O curso cobre a criação de pequenos programas para explorar condições, loops, variáveis e expressões; trabalhar com diferentes tipos de dados e como eles afetam a memória; escrever código modular; e como depurar usando diferentes abordagens para construir aplicações de software. Este curso também compara código escrito em várias linguagens diferentes, as bibliotecas e frameworks que se têm desenvolvido, e as razões para escolher cada um deles.
+
+Skills covered
+Desenvolvimento de software
+
 ## 🛠 Linguagens utilizadas
 
 - HTML
